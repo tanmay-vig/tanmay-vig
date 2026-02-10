@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay-vig" alt="tanmay-vig" /></a> </p>
 
-- 👨‍💻 All of my projects are available at https://tanmayvig.com/
+- 👨‍💻 All of my projects are available at https://tanmayvig.netlify.app/
 
 - 📫 How to reach me **tanmaykrisha@gmail.com**
 
