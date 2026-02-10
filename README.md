@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://tanmayvig.com/
 
-- 📫 How to reach me **cooltanmayvig@gmail.com**
+- 📫 How to reach me **tanmaykrisha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
