@@ -4,12 +4,17 @@
 
 **Software Engineering Intern @ STMicroelectronics · SIH 2024 National Winner**
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanmayvig.netlify.app-0a66c2?style=flat-square&logo=netlify&logoColor=white)](https://tanmayvig.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmayvig-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmayvig)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tanmayvig002-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmayvig002/)
 [![Email](https://img.shields.io/badge/Email-tanmaykrisha@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmaykrisha@gmail.com)
 
 </div>
+
+--- 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay-vig" alt="tanmay-vig" /></a> </p>
 
 ---
 
@@ -66,6 +71,11 @@ Outside of work, I build at the intersection of **AI systems, backend engineerin
 | 🏅 **Track Winner** | TechHacks 3.0, Chitkara | IoT vehicular pollution tracking system |
 
 ---
+
+## Github Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-vig&" alt="tanmay-vig" /></p>
+
 
 <div align="center">
 <sub>Open to Software Engineering roles · Graduating June 2026</sub>
